@@ -1,0 +1,30 @@
+p {
+    color: black;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.title {
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.left_nr_picker {
+    margin: 10px auto;
+    display: block;
+    /*  margin-right: 20px; */
+    text-align: center;
+}
+
+.right_nr_picker {
+    margin: 10px auto;
+    display: block;
+    /* margin-left: 20px; */
+    text-align: center;
+}
+
+.centered {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+}
